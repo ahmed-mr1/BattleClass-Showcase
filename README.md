@@ -195,8 +195,7 @@ Detailed technical specifications:
 
 ## Credits & Acknowledgements
 
-[Your Acknowledgements Here]
-
+Ahmed Mrabet
 ---
 
 ## License
